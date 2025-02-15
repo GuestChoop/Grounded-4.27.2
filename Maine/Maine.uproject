@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Maine",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG",
+				"FunctionalTesting",
+				"CoreUObject",
+				"AIModule",
+				"Core",
+				"DeveloperSettings",
+				"Engine",
+				"Foliage",
+				"GameplayTags",
+				"InputCore",
+				"LevelSequence",
+				"MediaAssets",
+				"NavigationSystem",
+				"Niagara",
+				"PhysicsCore",
+				"Slate",
+				"SlateCore"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OEICommon",
+			"Enabled": false
+		}
+	]
+}

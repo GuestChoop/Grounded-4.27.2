@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OEICommon.cpp.obj": [
+			"ObsidianIDComponent.cpp.obj",
+			"OEICommon.cpp.obj"
+		],
+		"Module.OEICommon.gen.cpp.obj": [
+			"ObsidianIDComponent.gen.cpp.obj",
+			"OEICommon.init.gen.cpp.obj"
+		]
+	}
+}
